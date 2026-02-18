@@ -5,6 +5,7 @@ This repository contains basic python programs created for practice.
 - prime number checker
 - palindrome program
 - multiplication table program
+- factorial program
 ## technologies used:
 - python
 Author:Desamsetti Gopika
