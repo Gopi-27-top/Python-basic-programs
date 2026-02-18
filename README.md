@@ -6,6 +6,7 @@ This repository contains basic python programs created for practice.
 - palindrome program
 - multiplication table program
 - factorial program
+- fabonacci program
 ## technologies used:
 - python
 Author:Desamsetti Gopika
