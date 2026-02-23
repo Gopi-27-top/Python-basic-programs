@@ -7,6 +7,7 @@ This repository contains basic python programs created for practice.
 - multiplication table program
 - factorial program
 - fabonacci program
+- armstrong number checker program
 ## technologies used:
 - python
 Author:Desamsetti Gopika
