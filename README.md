@@ -10,6 +10,7 @@ This repository contains basic python programs created for practice.
 - armstrong number checker program
 - password strength checket program
 - reverse a number program
+- number guessing game program
 ## technologies used:
 - python
 Author:Desamsetti Gopika
