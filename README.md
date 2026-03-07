@@ -11,6 +11,10 @@ This repository contains basic python programs created for practice.
 - password strength checket program
 - reverse a number program
 - number guessing game program
+## mini projects:
+- atm simulation program
+- to-do list application program
+- password generator program
 ## technologies used:
 - python
 Author:Desamsetti Gopika
